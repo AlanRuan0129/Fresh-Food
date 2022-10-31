@@ -666,10 +666,6 @@ body {
     height: 3rem;
 }
 
-.footer .credit span {
-    color: #fff;
-}
-
 @media(max-width: 991px) {
     html {
         font-size: 55%;
